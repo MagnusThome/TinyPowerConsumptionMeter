@@ -31,7 +31,7 @@ https://www.thingiverse.com/thing:3922847
   
   
 .  
-##__Running meter and also load from USB power only:__
+## __Running meter and also load from USB power only:__
   
 | Display . . . . 	| Arduino . . . . 	| INA219 . . . . 	| LOAD   	|
 |-----------------	|-----------------	|----------------	|--------	|
@@ -45,7 +45,7 @@ https://www.thingiverse.com/thing:3922847
 | GND             	| GND             	| GND            	| GND    	|
   
 .  
-##__Running meter and load from external power supply 7-20V:__
+## __Running meter and load from external power supply 7-20V:__
   
 | Display . . . . . 	| Arduino . . . . . 	| INA219 . . . . . 	| Power supply . . .	| LOAD    	|
 |-----------------	|-----------------	|----------------	|--------------------------	|---------	|
