@@ -68,6 +68,6 @@ __Optionally__ you can connect a Schottky diode from the Arduino boards USB conn
 
 All data is printed over the USB port
 
-<img src=/pics/untitled.png>
+<img src=/pics/Untitled.png>
 
 <img src=/pics/panel.png>
