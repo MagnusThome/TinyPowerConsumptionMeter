@@ -70,4 +70,7 @@ All data is printed over the USB port
 
 <img src=/pics/Untitled.png>
 
+3D-printed housing available at Thingiverse
+https://www.thingiverse.com/thing:3922847 
+
 <img src=/pics/panel.png>
