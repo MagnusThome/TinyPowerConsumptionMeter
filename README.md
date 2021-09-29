@@ -15,6 +15,8 @@ Displays:
 - Measure frequency
 - Run time
 
+<img src=/pics/20191018_121937.jpg>
+
 # Parts needed: 
 
 - Arduino Nano - ATmega328P
@@ -29,8 +31,10 @@ Optional:
   
 https://www.thingiverse.com/thing:3922847  
   
-  
-.  
+<img src=/pics/20191018_113226.jpg>
+
+# Hooking it up
+
 ## __Running meter and also load from USB power only:__
   
 | Display . . . . 	| Arduino . . . . 	| INA219 . . . . 	| LOAD   	|
@@ -59,3 +63,11 @@ https://www.thingiverse.com/thing:3922847
 | GND             	| GND             	| GND            	| GND                      	| GND     	|
   
 __Optionally__ you can connect a Schottky diode from the Arduino boards USB connector 5V pin to the Arduino boards VIN pin. Then you can connect power to either the USB connector __OR__ an external power supply to the VIN pin without rewiring anything.
+
+# Logging
+
+All data is printed over the USB port
+
+<img src=/pics/untitled.png>
+
+<img src=/pics/panel.png>
